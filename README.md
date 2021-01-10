@@ -5,4 +5,4 @@ API used was Unsplash API  and the layout was CSS Grid to give the images a grea
 
 Screengrab:
 
-![Capture.PNG](ss/Capture.PNG)
+![Pics.gif](ss/Pics.gif)
